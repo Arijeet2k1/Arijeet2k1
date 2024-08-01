@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arijeet
+- 👀 I’m interested in data science and uncovering insights from data.
+- 🌱 I’m currently learning advanced data analysis techniques and enhancing my skills in Power BI and Tableau.
+- 📫 How to reach me - Connect with me on LinkedIn or via email.
